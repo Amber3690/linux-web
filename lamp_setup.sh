@@ -1,5 +1,5 @@
 #!/bin/bash
-# setup_symlink.sh
+# lamp_setup.sh
 # Dynamically symlink repo root to Apache web root
 
 REPO_PATH="$(pwd)"   # assumes running from repo root
